@@ -1,0 +1,19 @@
+---
+title: "Contact"
+about: 
+  template: jolla
+  links: 
+    - icon: envelop-at-fill
+      text: email
+      href: nrao6@gmu.edu
+    - icon: githib
+      text: Github
+      href: https://github.com/Rao-nehaa
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/neha-rao-415843193/
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/_neharaoo/?hl=en      
+---
+contact me through the links provided 

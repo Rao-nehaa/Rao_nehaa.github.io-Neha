@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Neha Rao"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Introduction.qmd
+      - Favorites.qmd
+      - contacts.qmd
+      
+format:
+  html:
+    theme: sandstone
+    mainfont: times new roman
+    fontsize: 1.5rem
+    css: styles.css
+    toc: true
+
+
+
